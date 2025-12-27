@@ -26,3 +26,4 @@ if inv < 1:
     st.json(stakes)
 else:
     st.warning("No arbitrage opportunity")
+
